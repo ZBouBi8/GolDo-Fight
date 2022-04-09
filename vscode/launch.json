@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            // Start Debug -> Open Firefox, Open Debug console, Click an line in JS File and F5
+            "type": "firefox",
+            "request": "launch",
+            "reAttach": true,
+            "name": "Firefox + localhost",
+            "url": "http://localhost",
+            "webRoot": "${workspaceFolder}"            
+        }
+    ]
+}
