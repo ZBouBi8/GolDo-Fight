@@ -7,7 +7,7 @@
             "request": "launch",
             "reAttach": true,
             "name": "Firefox + localhost",
-            "url": "https://zboubi8.github.io/GolDo-Fight/",
+            "url": "http://localhost",
             "webRoot": "${workspaceFolder}"            
         }
     ]
